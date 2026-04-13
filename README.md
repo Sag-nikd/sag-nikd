@@ -1,149 +1,150 @@
-<h1 align="center">Hi, I'm Sagnik Dutta 👋</h1>
-<h3 align="center">Product Manager | GTM & RevOps Builder | Customer-Facing SaaS Operator</h3>
+<h1 align="center">Sagnik Dutta</h1>
+<h3 align="center">Senior Product Manager | GTM & RevOps | Business Analysis | Customer-Facing SaaS</h3>
+
+<p align="center">
+  Tampa, FL &nbsp;|&nbsp;
+  <a href="mailto:sagnikdutta.techm@gmail.com">sagnikdutta.techm@gmail.com</a> &nbsp;|&nbsp;
+  <a href="https://www.linkedin.com/in/sagnik-dutta-/">LinkedIn</a>
+</p>
 
 ---
 
-## 💫 About Me
+## About Me
 
-I work at the intersection of **product, operations, analytics, customer success, and go-to-market execution**.
+I work across **product management, business analysis, go-to-market operations, customer success, and analytics** to turn complex business needs into scalable systems and measurable outcomes.
 
-With **10+ years of experience** across **healthcare SaaS, marketplaces, hospitality, enterprise workflows, and customer-facing product environments**, I’ve led initiatives in:
+Over **10+ years**, I have worked across **healthcare SaaS, hospitality, marketplaces, education, and real estate**, partnering with cross-functional teams to build products, improve workflows, support enterprise clients, and drive growth in regulated and operationally complex environments.
 
+My experience spans:
 - Product strategy and roadmap execution
-- CRM workflow automation
-- Presales and post-sales solutioning
-- Customer success and stakeholder management
-- GTM operations and revenue workflows
-- Analytics, reporting, and process optimization
-- AI-assisted business and operational systems
-
-I’m especially interested in building products around **startup ecosystems, AI-native workflows, community-led platforms, and capital intelligence systems**.
+- Business analysis and requirements definition
+- CRM workflow design and automation
+- GTM architecture and revenue operations
+- Presales, solutioning, and executive demos
+- Analytics, experimentation, and KPI reporting
+- Customer success and cross-functional delivery
 
 ---
 
-## 🌐 Socials
+## What I’ve Delivered
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sagnik%20Dutta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+- Helped drive **10× revenue growth** through product, operational, and GTM execution
+- Supported **$8M+ enterprise pipeline** through solution demos, discovery, and stakeholder alignment
+- Delivered **$5M+ in customer value** through workflow optimization, analytics, and product improvements
+- Shipped **25+ features** and supported platforms serving **2M+ users**
+- Led **30+ stakeholder workshops** and **15+ executive demos**
+- Improved GTM execution speed by **20%** through process design and AI-assisted workflows
+- Analyzed **100K+ data points** to inform product, operational, and customer decisions
 
 ---
 
-## 🛠️ Stack & Tools
+## Domain Experience
 
-### Product / Business Systems
-![Product Strategy](https://img.shields.io/badge/Product%20Strategy-1F2937?style=for-the-badge)
-![Business Analysis](https://img.shields.io/badge/Business%20Analysis-1F2937?style=for-the-badge)
-![Requirements Gathering](https://img.shields.io/badge/Requirements-1F2937?style=for-the-badge)
-![Presales](https://img.shields.io/badge/Presales-1F2937?style=for-the-badge)
-![Post Sales](https://img.shields.io/badge/Post%20Sales-1F2937?style=for-the-badge)
-![Customer Success](https://img.shields.io/badge/Customer%20Success-1F2937?style=for-the-badge)
-![Revenue Operations](https://img.shields.io/badge/Revenue%20Operations-1F2937?style=for-the-badge)
-![Agile](https://img.shields.io/badge/Agile-1F2937?style=for-the-badge)
-![Scrum](https://img.shields.io/badge/Scrum-1F2937?style=for-the-badge)
+- **Healthcare SaaS** — Medicaid, Medicare, HIPAA-compliant engagement platforms
+- **Hospitality & Travel** — booking flows, guest lifecycle, channel operations
+- **Marketplaces** — merchant growth, onboarding, retention, operational analytics
+- **Education** — event operations, systems support, analytics
+- **Real Estate** — client solutions, due diligence, workflow coordination
 
-### CRM / GTM / Workflow Tools
+---
+
+## Core Strengths
+
+### Product & Business
+![Product Strategy](https://img.shields.io/badge/Product%20Strategy-111827?style=for-the-badge)
+![Business Analysis](https://img.shields.io/badge/Business%20Analysis-111827?style=for-the-badge)
+![Roadmap Execution](https://img.shields.io/badge/Roadmap%20Execution-111827?style=for-the-badge)
+![Requirements Gathering](https://img.shields.io/badge/Requirements-111827?style=for-the-badge)
+![Stakeholder Management](https://img.shields.io/badge/Stakeholder%20Management-111827?style=for-the-badge)
+![Customer Success](https://img.shields.io/badge/Customer%20Success-111827?style=for-the-badge)
+![Revenue Operations](https://img.shields.io/badge/Revenue%20Operations-111827?style=for-the-badge)
+![Presales](https://img.shields.io/badge/Presales-111827?style=for-the-badge)
+![Agile](https://img.shields.io/badge/Agile-111827?style=for-the-badge)
+
+### CRM / GTM / Workflow
 ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
-![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white)
 ![Microsoft Dynamics 365](https://img.shields.io/badge/Dynamics%20365-0B53CE?style=for-the-badge&logo=microsoft&logoColor=white)
+![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white)
 ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white)
-![Gainsight](https://img.shields.io/badge/Gainsight-FF6B35?style=for-the-badge)
-![Gong](https://img.shields.io/badge/Gong-5B5BD6?style=for-the-badge)
 ![Clay](https://img.shields.io/badge/Clay-111827?style=for-the-badge)
 ![Zapier](https://img.shields.io/badge/Zapier-FF4F00?style=for-the-badge&logo=zapier&logoColor=white)
+![Gainsight](https://img.shields.io/badge/Gainsight-FF6B35?style=for-the-badge)
+![Gong](https://img.shields.io/badge/Gong-5B5BD6?style=for-the-badge)
 
-### Product / Collaboration Tools
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
-![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Aha!](https://img.shields.io/badge/Aha!-E84142?style=for-the-badge)
-![XRM Toolbox](https://img.shields.io/badge/XRM%20Toolbox-2563EB?style=for-the-badge)
-
-### Analytics / BI / Data
-![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54)
+### Data / Analytics / Delivery
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
 ![Alteryx](https://img.shields.io/badge/Alteryx-0F172A?style=for-the-badge)
-![Power Query](https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge)
-![SPSS](https://img.shields.io/badge/SPSS-C00000?style=for-the-badge)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-### Cloud / Technical
+### Cloud / AI Tools
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![XML](https://img.shields.io/badge/XML-8B5CF6?style=for-the-badge)
-![Hive](https://img.shields.io/badge/Hive-FACC15?style=for-the-badge)
-
-### AI / Productivity Tools
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97706?style=for-the-badge)
-![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-111827?style=for-the-badge)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Midjourney](https://img.shields.io/badge/Midjourney-000000?style=for-the-badge)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Power BI Copilot](https://img.shields.io/badge/Power%20BI%20Copilot-111827?style=for-the-badge)
 
 ---
 
-## 📜 Certifications
+## Experience Snapshot
+
+### Senior Product Manager / Product Operations / GTM
+At Sagitec, I work across core product, enterprise healthcare workflows, presales, GTM systems, and customer-facing delivery. My work includes CRM-driven engagement design, workflow automation, data validation, release planning, executive demos, and analytics-driven decision support.
+
+### Product & Business Operations
+At OYO and Foodpanda, I supported growth through product execution, funnel analysis, market operations, onboarding improvements, and data-backed decision-making across customer and merchant journeys.
+
+### Systems, Delivery & Client Support
+Across roles, I have built a strong foundation in structured delivery, UAT, documentation, stakeholder workshops, process improvement, and converting business problems into executable solutions.
+
+---
+
+## Certifications
 
 - Certified ScrumMaster (CSM)
 - Certified Scrum Product Owner (CSPO)
 - Salesforce Administrator
-- HubSpot Revenue Operations Certification
 - Aha! Product Management
+- Databricks Fundamentals
 - Pendo Product Analytics
 - Gainsight Administrator
-- Databricks Fundamentals
-- AWS Solutions Architect Associate *(ongoing)*
-- PMP *(ongoing)*
+- PMP Gen AI for Project Manager
+- AWS Solutions Architect Associate *(in progress)*
+- PMP *(in progress)*
 
 ---
 
-## 🚀 Current Focus
+## Current Focus
 
-- AI-native product workflows  
-- Startup ecosystem platforms  
-- Community + capital intelligence systems  
-- GTM infrastructure and RevOps  
-- Customer success operations  
-- Analytics-driven product execution  
-
----
-
-## 📌 Featured Direction
-
-Currently exploring products at the intersection of:
-
-**Product × GTM × Community × Capital Intelligence**
+I’m especially interested in building and supporting products in areas like:
+- AI-assisted product and operational workflows
+- GTM systems and revenue infrastructure
+- CRM-driven customer lifecycle automation
+- Customer success and scalable service operations
+- Analytics-led product execution
+- Startup and ecosystem-oriented product ideas
 
 ---
 
-## 🤝 Connect
+## Let’s Connect
 
-I’m always interested in conversations around:
+I’m open to conversations around:
 - Product Management
+- Business Analysis
 - GTM / RevOps
-- Customer Success
-- AI workflows
-- Startup systems
-- Ecosystem products
-<!--
-**Sag-nikd/sag-nikd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Customer Success Operations
+- Healthcare SaaS
+- AI-enabled workflow systems
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://www.linkedin.com/in/sagnik-dutta-/">LinkedIn</a> • 
+  <a href="mailto:sagnikdutta.techm@gmail.com">Email</a>
+</p>
